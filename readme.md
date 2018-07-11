@@ -4,8 +4,11 @@
 
 ### В течении курса было сделано 3 проекта:
 * <a href="https://yaroslavzn.github.io/advance_css/Natours/">Natours</a>
-  ![alt text](https://fex.net/get/946785064359/587789214 "Промо картинка проекта Natours")
+
+  ![Промо картинка проекта Natours](https://fs14.fex.net/get/946785064359/587789214/3e46fd0c/natours.jpg "Промо картинка проекта Natours")
 * <a href="https://yaroslavzn.github.io/advance_css/Trillo/">Trillo</a>
-  ![alt text](https://fex.net/get/946785064359/587794661 "Промо картинка проекта Trillo")
+
+  ![Промо картинка проекта Trillo](https://fs12.fex.net/get/946785064359/587794661/5edfb031/trillo.jpg "Промо картинка проекта Trillo")
 * <a href="https://yaroslavzn.github.io/advance_css/Nexter/">Nexter</a>
-  ![alt text](https://fex.net/get/946785064359/587794660 "Промо картинка проекта Nexter")
+
+  ![Промо картинка проекта Nexter](https://fs12.fex.net/get/946785064359/587794660/f9319035/nexter.jpg "Промо картинка проекта Nexter")
